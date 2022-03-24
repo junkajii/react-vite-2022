@@ -1,3 +1,7 @@
 # COMEÇANDO NO REACT.JS EM 2022
 
-Vite
+- components
+- propriedades
+- estados
+- estilização
+- router
